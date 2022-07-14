@@ -1,0 +1,43 @@
+2022-07-12 18:07:555 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:250 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:882 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (f7308094b03045e50564084a22fd1bda)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:70 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (f7308094b03045e50564084a22fd1bda)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:894 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:848 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (661516adf7a25ec38143d2daf6143ad3)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:20 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (661516adf7a25ec38143d2daf6143ad3)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:262 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (661516adf7a25ec38143d2daf6143ad3)] -> xpath: //input[@name='commit']]
+2022-07-12 19:07:751 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:47 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (8084b409e9ab02bb02a6bbe996eaac6f)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:224 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (8084b409e9ab02bb02a6bbe996eaac6f)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:665 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (8084b409e9ab02bb02a6bbe996eaac6f)] -> xpath: //input[@name='commit']]
+2022-07-12 19:07:490 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:515 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (0daf1edb2de788f244059f1e2d74994d)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:709 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (0daf1edb2de788f244059f1e2d74994d)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:216 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (0daf1edb2de788f244059f1e2d74994d)] -> xpath: //input[@name='commit']]
+2022-07-12 19:07:199 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:829 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (b43c049db499fdfd8a8ad0d852522de9)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:129 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (b43c049db499fdfd8a8ad0d852522de9)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:428 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (b43c049db499fdfd8a8ad0d852522de9)] -> xpath: //input[@name='commit']]
+2022-07-12 19:07:743 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:301 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (f3b7b42491ba08af71f8325a7e662909)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:621 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (f3b7b42491ba08af71f8325a7e662909)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:915 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (f3b7b42491ba08af71f8325a7e662909)] -> xpath: //input[@name='commit']]
+2022-07-12 19:07:122 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:988 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (c20fefad7815892f9c68f39764c41139)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:182 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (c20fefad7815892f9c68f39764c41139)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:217 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:457 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (0d2739bbe1246a6c774a52353aaaab36)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:705 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (0d2739bbe1246a6c774a52353aaaab36)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:998 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (0d2739bbe1246a6c774a52353aaaab36)] -> xpath: //input[@name='commit']]
+2022-07-12 19:07:438 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:472 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (14e383fd1da9007b647e9a4cd6ec3b5a)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:762 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (14e383fd1da9007b647e9a4cd6ec3b5a)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:96 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (14e383fd1da9007b647e9a4cd6ec3b5a)] -> xpath: //input[@name='commit']]
+2022-07-12 19:07:199 INFO  ManageDriver :32 - launching chrome browser
+2022-07-12 19:07:979 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (30db56b39b046435287bd7781855fc61)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-12 19:07:208 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (30db56b39b046435287bd7781855fc61)] -> xpath: //input[@id='query']]
+2022-07-12 19:07:685 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (30db56b39b046435287bd7781855fc61)] -> xpath: //input[@name='commit']]
+2022-07-14 13:07:420 INFO  ManageDriver :32 - launching chrome browser
+2022-07-14 13:07:522 INFO  HomePage :42 - Clicking on HelpCentre : [[ChromeDriver: chrome on WINDOWS (01a61b4bdb51514f4d0cf9879fa0bf87)] -> xpath: //a[contains(@class,'body-copy mr-space1 text-black font-semibold')][normalize-space()='Help centre']]
+2022-07-14 13:07:776 INFO  HomePage :48 - MouseHoverAndClick on SearchBar: [[ChromeDriver: chrome on WINDOWS (01a61b4bdb51514f4d0cf9879fa0bf87)] -> xpath: //input[@id='query']]
+2022-07-14 13:07:978 INFO  HomePage :55 - Clicking on SearchBtn : [[ChromeDriver: chrome on WINDOWS (01a61b4bdb51514f4d0cf9879fa0bf87)] -> xpath: //input[@name='commit']]
